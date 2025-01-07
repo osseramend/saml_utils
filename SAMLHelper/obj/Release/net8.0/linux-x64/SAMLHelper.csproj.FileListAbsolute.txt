@@ -1,0 +1,12 @@
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.deps.json
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.pdb
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.csproj.AssemblyReference.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.AssemblyInfoInputs.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.AssemblyInfo.cs
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.csproj.CoreCompileInputs.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\refint\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.pdb
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\ref\SAMLHelper.dll

@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {},
+    ".NETCoreApp,Version=v8.0/linux-x64": {
+      "SAMLHelper/1.0.0": {
+        "dependencies": {
+          "AspNetSaml": "2.1.2",
+          "OutSystems.ExternalLibraries.SDK": "1.4.0"
+        },
+        "runtime": {
+          "SAMLHelper.dll": {}
+        }
+      },
+      "AspNetSaml/2.1.2": {
+        "dependencies": {
+          "System.Security.Cryptography.Xml": "8.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AspNetSaml.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
+      "OutSystems.ExternalLibraries.SDK/1.4.0": {
+        "runtime": {
+          "lib/net6.0/OutSystems.ExternalLibraries.SDK.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.4.0.60000"
+          }
+        }
+      },
+      "System.Formats.Asn1/8.0.0": {},
+      "System.Security.Cryptography.Pkcs/8.0.0": {
+        "dependencies": {
+          "System.Formats.Asn1": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Security.Cryptography.Xml/8.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.Pkcs": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAMLHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetSaml/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ar46f7GdlVkTBcVzyrxeyJdUDytTYsMC0IXeGIBhxSuqy9J3k+ZAu08nulhFC0dUVHgdF6bi0I05XZtoAjdNzQ==",
+      "path": "aspnetsaml/2.1.2",
+      "hashPath": "aspnetsaml.2.1.2.nupkg.sha512"
+    },
+    "OutSystems.ExternalLibraries.SDK/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LrQtKoI6v9+LOSfyWjoWNM2ZR3g565CDr2JZPnIY37pXaKH58J5WOf5T2evo8ZBP3UZuNvumISPFEcU2nOZs2A==",
+      "path": "outsystems.externallibraries.sdk/1.4.0",
+      "hashPath": "outsystems.externallibraries.sdk.1.4.0.nupkg.sha512"
+    },
+    "System.Formats.Asn1/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AJukBuLoe3QeAF+mfaRKQb2dgyrvt340iMBHYv+VdBzCUM06IxGlvl0o/uPOS7lHnXPN6u8fFRHSHudx5aTi8w==",
+      "path": "system.formats.asn1/8.0.0",
+      "hashPath": "system.formats.asn1.8.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ULmp3xoOwNYjOYp4JZ2NK/6NdTgiN1GQXzVVN1njQ7LOZ0d0B9vyMnhyqbIi9Qw4JXj1JgCsitkTShboHRx7Eg==",
+      "path": "system.security.cryptography.pkcs/8.0.0",
+      "hashPath": "system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Xml/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HQSFbakswZ1OXFz2Bt3AJlC6ENDqWeVpgqhf213xqQUMDifzydOHIKVb1RV4prayobvR3ETIScMaQdDF2hwGZA==",
+      "path": "system.security.cryptography.xml/8.0.0",
+      "hashPath": "system.security.cryptography.xml.8.0.0.nupkg.sha512"
+    }
+  }
+}

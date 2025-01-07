@@ -1,0 +1,7 @@
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\SAMLHelper.deps.json
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\SAMLHelper.pdb
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\AspNetSaml.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\System.Security.Cryptography.Pkcs.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Release\net8.0\linux-x64\publish\System.Security.Cryptography.Xml.dll

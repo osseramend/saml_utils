@@ -1,0 +1,12 @@
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Debug\net8.0\SAMLHelper.deps.json
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Debug\net8.0\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\bin\Debug\net8.0\SAMLHelper.pdb
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.csproj.AssemblyReference.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.AssemblyInfoInputs.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.AssemblyInfo.cs
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.csproj.CoreCompileInputs.cache
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\refint\SAMLHelper.dll
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\SAMLHelper.pdb
+F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Debug\net8.0\ref\SAMLHelper.dll
