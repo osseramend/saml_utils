@@ -10,3 +10,16 @@ F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper
 F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\refint\SAMLHelper.dll
 F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.pdb
 F:\Work\SAMLHelper\SAMLHelper\SAMLHelper\obj\Release\net8.0\linux-x64\ref\SAMLHelper.dll
+F:\Work\GIT\Saml_utils\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.deps.json
+F:\Work\GIT\Saml_utils\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.dll
+F:\Work\GIT\Saml_utils\SAMLHelper\bin\Release\net8.0\linux-x64\SAMLHelper.pdb
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.csproj.AssemblyReference.cache
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.AssemblyInfoInputs.cache
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.AssemblyInfo.cs
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.csproj.CoreCompileInputs.cache
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.sourcelink.json
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.dll
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\refint\SAMLHelper.dll
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\SAMLHelper.pdb
+F:\Work\GIT\Saml_utils\SAMLHelper\obj\Release\net8.0\linux-x64\ref\SAMLHelper.dll
